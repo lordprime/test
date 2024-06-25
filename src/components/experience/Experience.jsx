@@ -118,9 +118,7 @@ const Experience = () => {
                                 <h4>Docker, Docker-compose</h4>
                                 <small className='text-light'>intermediate</small>
                             </div>
-                        </article>
-                        
-                        
+                        </article>  
                     </div>
                 </div>
             </div>
