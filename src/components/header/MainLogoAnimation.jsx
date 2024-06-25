@@ -14,7 +14,7 @@ function AnimatedText() {
                     easing: "easeOutExpo",
                     duration: 1500
                 });
-        }
+        } 
     }, []);
 
     return (
