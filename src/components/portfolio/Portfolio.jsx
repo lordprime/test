@@ -20,6 +20,7 @@ const data = [
 	image: IMG2
         title : 'Hackbot: Project done with team, A PoC LLM Assistant for analysis and information gathering.',
         github: 'https://github.com/lordprime/HackBot',
+    },
     {
         id: 3,
         image: IMG3,
