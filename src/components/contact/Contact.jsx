@@ -41,7 +41,7 @@ const Contact = () => {
                         <h4>Linkedin</h4>
                         <h5>R ABHISHEK REDDY</h5>
                         <a href="https://www.linkedin.com/in/r-abhishek-reddy-56b950215/" target="_blank" rel="noopener noreferrer">Send a message</a>
-                   
+                   </article>
                 </div>
                 {/* End of contact options */}
 
