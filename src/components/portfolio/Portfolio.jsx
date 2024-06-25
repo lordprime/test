@@ -17,7 +17,7 @@ const data = [
     },
      {
 	id: 2,
-	image: IMG2
+	image: IMG2,
         title : 'Hackbot: Project done with team, A PoC LLM Assistant for analysis and information gathering.',
         github: 'https://github.com/lordprime/HackBot',
     },
