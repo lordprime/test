@@ -18,7 +18,7 @@ function AnimatedText() {
     }, []);
 
     return (
-        <h1 ref={textRef} style={{ opacity: 0 }}>Chiranjeevi G Naidu</h1>
+        <h1 ref={textRef} style={{ opacity: 0 }}>R Abhishek Reddy</h1>
     );
 }
 
